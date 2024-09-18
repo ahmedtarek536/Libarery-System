@@ -1,0 +1,7 @@
+D:\C#\LibarerySystem\bin\Debug\LibarerySystem.exe.config
+D:\C#\LibarerySystem\bin\Debug\LibarerySystem.exe
+D:\C#\LibarerySystem\bin\Debug\LibarerySystem.pdb
+D:\C#\LibarerySystem\obj\Debug\LibarerySystem.csproj.AssemblyReference.cache
+D:\C#\LibarerySystem\obj\Debug\LibarerySystem.csproj.CoreCompileInputs.cache
+D:\C#\LibarerySystem\obj\Debug\LibarerySystem.exe
+D:\C#\LibarerySystem\obj\Debug\LibarerySystem.pdb
